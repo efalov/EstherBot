@@ -1,6 +1,6 @@
 {
    "я тебя люблю": "И я тебя!",
-   "ПРИВЕТ": "Привет!\nМеня зовут Павлик и я учусь делать бота.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
+   "ПРИВЕТ": "Привет!\nМеня зовут Павлик и я учусь делать бота.\n![esther](https://dl.dropboxusercontent.com/u/1668393/efalov.jpg)\nХочет узнать про меня или про бота? %[Узнать про бота](postback:here_for_the_bot) %[Узнать про Павлика](postback:learn_about_esther) %[Какая-нить хуйня!](postback:random_fact)",
    "ХУЙ": "САМ СОСИ",
    "CONNECT ME": "Чокчему",
    "DISCONNECT": "Вернулся."
